@@ -5,7 +5,7 @@
 #include"ImpTimer.h"
 #include"ThreatObject.h"
 #include"TextObject.h"
-
+#include"Music.h"
 
 
 BaseObject g_background;
@@ -53,6 +53,10 @@ int main(int argc, char* args[]) {
 
 	std::vector<ThreatObject*> listThreat = createThreat(mapData, g_screen);
 	//std::cout << listThreat.size() << std::endl;
+
+	// music
+	Music bgMusic("Music/musicBackground.mp3");
+	bgMusic.play();
 	while (!IS_QUIT) {
 		Timer.start();
 
@@ -205,6 +209,8 @@ bool initData() {
 	if (Font == nullptr) {
 		return false;
 	}
+	if (SDL_Init(SDL_INIT_AUDIO) < 0) return false;
+
 	return true;
 }
 
@@ -229,5 +235,6 @@ void close() {
 
 	SDL_Quit();
 	IMG_Quit();
+	
 }
 

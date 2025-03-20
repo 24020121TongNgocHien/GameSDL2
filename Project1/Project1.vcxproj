@@ -36,6 +36,7 @@
     <ClInclude Include="Game_Map.h" />
     <ClInclude Include="ImpTimer.h" />
     <ClInclude Include="MainObject.h" />
+    <ClInclude Include="Music.h" />
     <ClInclude Include="TextObject.h" />
     <ClInclude Include="ThreatObject.h" />
   </ItemGroup>
