@@ -1,0 +1,111 @@
+﻿  BaseObject.cpp
+D:\Data\VisualStudio\Project1\Project1\CommonFunc.h(50,16): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+  (compiling source file 'BaseObject.cpp')
+  
+D:\Data\VisualStudio\Project1\Project1\CommonFunc.h(62,16): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+  (compiling source file 'BaseObject.cpp')
+  
+  BulletObject.cpp
+D:\Data\VisualStudio\Project1\Project1\CommonFunc.h(50,16): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+  (compiling source file 'BulletObject.cpp')
+  
+D:\Data\VisualStudio\Project1\Project1\CommonFunc.h(62,16): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+  (compiling source file 'BulletObject.cpp')
+  
+  CommonFunc.cpp
+D:\Data\VisualStudio\Project1\Project1\CommonFunc.h(50,16): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+  (compiling source file 'CommonFunc.cpp')
+  
+D:\Data\VisualStudio\Project1\Project1\CommonFunc.h(62,16): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+  (compiling source file 'CommonFunc.cpp')
+  
+  Game_Map.cpp
+D:\Data\VisualStudio\Project1\Project1\CommonFunc.h(50,16): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+  (compiling source file 'Game_Map.cpp')
+  
+D:\Data\VisualStudio\Project1\Project1\CommonFunc.h(62,16): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+  (compiling source file 'Game_Map.cpp')
+  
+  ImpTimer.cpp
+D:\Data\VisualStudio\Project1\Project1\CommonFunc.h(50,16): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+  (compiling source file 'ImpTimer.cpp')
+  
+D:\Data\VisualStudio\Project1\Project1\CommonFunc.h(62,16): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+  (compiling source file 'ImpTimer.cpp')
+  
+  main.cpp
+D:\Data\VisualStudio\Project1\Project1\CommonFunc.h(50,16): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+  (compiling source file 'main.cpp')
+  
+D:\Data\VisualStudio\Project1\Project1\CommonFunc.h(62,16): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+  (compiling source file 'main.cpp')
+  
+D:\Data\VisualStudio\Project1\Project1\main.cpp(20,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MainObject.cpp
+D:\Data\VisualStudio\Project1\Project1\CommonFunc.h(50,16): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+  (compiling source file 'MainObject.cpp')
+  
+D:\Data\VisualStudio\Project1\Project1\CommonFunc.h(62,16): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+  (compiling source file 'MainObject.cpp')
+  
+D:\Data\VisualStudio\Project1\Project1\MainObject.cpp(77,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Data\VisualStudio\Project1\Project1\MainObject.cpp(78,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Data\VisualStudio\Project1\Project1\MainObject.cpp(118,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Data\VisualStudio\Project1\Project1\MainObject.cpp(119,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Data\VisualStudio\Project1\Project1\MainObject.cpp(127,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Data\VisualStudio\Project1\Project1\MainObject.cpp(128,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Data\VisualStudio\Project1\Project1\MainObject.cpp(136,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Data\VisualStudio\Project1\Project1\MainObject.cpp(137,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Data\VisualStudio\Project1\Project1\MainObject.cpp(145,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Data\VisualStudio\Project1\Project1\MainObject.cpp(146,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Data\VisualStudio\Project1\Project1\MainObject.cpp(219,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Data\VisualStudio\Project1\Project1\MainObject.cpp(220,40): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Data\VisualStudio\Project1\Project1\MainObject.cpp(222,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Data\VisualStudio\Project1\Project1\MainObject.cpp(223,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Data\VisualStudio\Project1\Project1\MainObject.cpp(237,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Data\VisualStudio\Project1\Project1\MainObject.cpp(256,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Data\VisualStudio\Project1\Project1\MainObject.cpp(267,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Data\VisualStudio\Project1\Project1\MainObject.cpp(268,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Data\VisualStudio\Project1\Project1\MainObject.cpp(270,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Data\VisualStudio\Project1\Project1\MainObject.cpp(271,41): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Data\VisualStudio\Project1\Project1\MainObject.cpp(284,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Data\VisualStudio\Project1\Project1\MainObject.cpp(299,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Data\VisualStudio\Project1\Project1\MainObject.cpp(317,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Data\VisualStudio\Project1\Project1\MainObject.cpp(320,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Data\VisualStudio\Project1\Project1\MainObject.cpp(325,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Data\VisualStudio\Project1\Project1\MainObject.cpp(333,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Data\VisualStudio\Project1\Project1\MainObject.cpp(373,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  TextObject.cpp
+D:\Data\VisualStudio\Project1\Project1\CommonFunc.h(50,16): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+  (compiling source file 'TextObject.cpp')
+  
+D:\Data\VisualStudio\Project1\Project1\CommonFunc.h(62,16): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+  (compiling source file 'TextObject.cpp')
+  
+  ThreatObject.cpp
+D:\Data\VisualStudio\Project1\Project1\CommonFunc.h(50,16): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+  (compiling source file 'ThreatObject.cpp')
+  
+D:\Data\VisualStudio\Project1\Project1\CommonFunc.h(62,16): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+  (compiling source file 'ThreatObject.cpp')
+  
+D:\Data\VisualStudio\Project1\Project1\ThreatObject.cpp(39,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Data\VisualStudio\Project1\Project1\ThreatObject.cpp(40,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Data\VisualStudio\Project1\Project1\ThreatObject.cpp(77,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Data\VisualStudio\Project1\Project1\ThreatObject.cpp(78,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Data\VisualStudio\Project1\Project1\ThreatObject.cpp(80,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Data\VisualStudio\Project1\Project1\ThreatObject.cpp(81,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Data\VisualStudio\Project1\Project1\ThreatObject.cpp(113,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Data\VisualStudio\Project1\Project1\ThreatObject.cpp(114,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Data\VisualStudio\Project1\Project1\ThreatObject.cpp(116,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Data\VisualStudio\Project1\Project1\ThreatObject.cpp(117,39): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Data\VisualStudio\Project1\Project1\ThreatObject.cpp(157,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Data\VisualStudio\Project1\Project1\ThreatObject.cpp(160,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Data\VisualStudio\Project1\Project1\ThreatObject.cpp(167,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Data\VisualStudio\Project1\Project1\ThreatObject.cpp(168,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Data\VisualStudio\Project1\Project1\ThreatObject.cpp(170,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Data\VisualStudio\Project1\Project1\ThreatObject.cpp(171,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Data\VisualStudio\Project1\Project1\ThreatObject.cpp(225,26): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Data\VisualStudio\Project1\Project1\ThreatObject.cpp(226,26): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Generating Code...
+  Project1.vcxproj -> D:\Data\VisualStudio\Project1\x64\Debug\Project1.exe
